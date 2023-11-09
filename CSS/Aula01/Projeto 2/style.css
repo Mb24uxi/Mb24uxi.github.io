@@ -1,0 +1,70 @@
+.user{
+    background-color: darkolivegreen;
+}
+
+.password{
+    background-color: aquamarine;
+}
+
+.quadrado-1{
+    background-color: burlywood;
+    height: 100px;
+    width: 100px;
+}
+
+.quadrado-2{
+    background-color: darkkhaki;
+    height: 150px;
+    width: 150px;
+}
+
+.quadrado-3{
+    background-color: coral;
+    height: 200px;
+    width: 200px;
+}
+
+.quadrado-4{
+    background-color: bisque;
+    height: 250px;
+    width: 250px;
+}
+
+h3{
+    font-size: 40px;
+    color: crimson;
+}
+
+.feira h3{
+    color: blue;
+}
+
+.feira{
+    color: blueviolet;
+}
+
+.feira ul li{
+    background-color: darkkhaki;
+}
+
+.produtosdelimpeza h3{
+    color: chartreuse;
+}
+
+.produtosdelimpeza li{
+    color: blue;
+    background-color: darkred;
+}
+
+button{
+    width: 200px;
+    height: 100px;
+    font-size: 30px;
+    color: aliceblue;
+    background-color: #1ee2e7;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 8px;
+    letter-spacing: 2px;
+    font-weight: lighter;
+}

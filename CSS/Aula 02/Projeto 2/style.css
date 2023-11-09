@@ -1,0 +1,64 @@
+.btn1{
+    width: 150px;
+    height: 50px;
+    background-color: #3049EE ;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 3px 3px 3px gray;
+}
+
+.quadrado1{
+    width: 100px;
+    height: 100px;
+    background-color: #79E48E ;
+}
+
+.circulo{
+    width: 100px;
+    height: 100px;
+    background-color: #9079E4;
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px #3049EE;
+}
+
+.retangulo1{
+    background-color: #E2E479;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #79E48E;
+}
+
+.btn2{
+    border-radius: 30%;
+    background-color: #E47993;
+    color: #a81528;
+    
+}
+
+.quadrado2{
+    width: 150px;
+    height: 150px;
+    background-color: #12A5BE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.retangulo2{
+    width: 300px;
+    height: 150px;
+    background-color: background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(57,9,121,1) 35%, rgba(0,212,255,1) 100%); ;
+}
+
+.quadrado3{
+    width: 120px;
+    height: 120px;
+    background-color: #0AA32F ;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

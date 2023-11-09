@@ -1,0 +1,30 @@
+html{
+    background-color: rgb(19, 19, 19);
+}
+
+button{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    background-color:chartreuse;
+    border: none;
+    color: darkgreen;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: aqua;
+}
+
+.confirmar{
+    background-color: darkgoldenrod;
+    color: black;
+}
+
+h1{
+    color: chartreuse;
+}
+
+.cancelar{
+    background-color: brown;
+    color: orangered;
+}

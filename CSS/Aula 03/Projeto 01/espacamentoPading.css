@@ -1,0 +1,41 @@
+.textoCaixas{
+    color: aliceblue;
+}
+
+.caixa1{
+    width: 200px;
+    height: 200px;
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa2{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(27, 100, 17);
+    text-align: center;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.caixa3{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(170, 167, 12);
+    text-align: center;
+    padding: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.container{
+    margin: 150px;
+}

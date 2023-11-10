@@ -1,0 +1,9 @@
+.paragrafo1 {
+    background-color: rgb(255, 240, 30);
+    display: block;
+}
+
+.paragrafo2 {
+    background-color: blue;
+    display: inline;
+}

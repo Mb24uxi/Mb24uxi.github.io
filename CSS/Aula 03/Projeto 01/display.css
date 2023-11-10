@@ -1,0 +1,17 @@
+.bloco{
+    height: 100px;
+    background-color: chocolate;
+    color: aliceblue;
+    text-align: center;
+    margin: 20px;
+    display: block;
+
+}
+
+.linha{
+    display: inline;
+    background-color: rgb(192, 154, 105);
+    color: aliceblue;
+    padding: 5px;
+    margin: 5px;
+}
